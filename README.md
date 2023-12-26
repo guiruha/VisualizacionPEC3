@@ -2,6 +2,8 @@
 
 En este repositorio se presenta una pequeña muestra de la información e interactividad que ofrece la visualización que he creado para la **PEC3** de la asignatura **Visualización de datos del máster de Ciencia de Datos de la UOC**. Este dashboard resume la problemática actual en el mercado de los alquileres, vivir en un piso de alquiler supone en muchas ocasiones renunciar a más del 30% de nuestro salario.
 
+**El Fichero de Tableau se ha añadido por si se quiere hacer pruebas de forma local.**
+
 A continuación, se presentan una serie de Gifs que resumen las funcionalidades añadidas a esta visualización:
 
 ### ANIMACIÓN. EVOLUCIÓN DEL RATIO ALQUILER/SUELDO BRUTO MEDIO EN ESPAÑA:
