@@ -30,3 +30,7 @@ A continuación, se presentan una serie de Gifs que resumen las funcionalidades 
 ### INTERACCIÓN. CAMBIO DE ALQUILER EN BASE A METROS CUADRADOS:
 
 ![](https://github.com/guiruha/VisualizacionPEC3/blob/main/CambioPrecioAlquiler.gif)
+
+### INTERACCIÓN. DETAILS ON DEMAND:
+
+![](https://github.com/guiruha/VisualizacionPEC3/blob/main/OnDemand.gif)
